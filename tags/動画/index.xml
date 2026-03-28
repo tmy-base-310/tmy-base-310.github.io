@@ -1,4 +1,7205 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>動画 on 🎵 VIRAL BEAT - 動画バイラルトレンドメディア</title><link>https://tmy-base-310.github.io/tags/%E5%8B%95%E7%94%BB/</link><description>Recent content in 動画 on 🎵 VIRAL BEAT - 動画バイラルトレンドメディア</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>トミー</copyright><lastBuildDate>Thu, 26 Mar 2026 09:03:19 +0000</lastBuildDate><atom:link href="https://tmy-base-310.github.io/tags/%E5%8B%95%E7%94%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>🔥 YouTube急上昇ランキング TOP50 - 2026-03-26</title><link>https://tmy-base-310.github.io/post/youtube%E6%80%A5%E4%B8%8A%E6%98%87%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-top50-2026-03-26/</link><pubDate>Thu, 26 Mar 2026 09:03:19 +0000</pubDate><guid>https://tmy-base-310.github.io/post/youtube%E6%80%A5%E4%B8%8A%E6%98%87%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-top50-2026-03-26/</guid><description>&lt;h2 id="-youtube急上昇ランキング-top50"&gt;🎬 YouTube急上昇ランキング TOP50
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>動画 on 🎵 VIRAL BEAT - 動画バイラルトレンドメディア</title><link>https://tmy-base-310.github.io/tags/%E5%8B%95%E7%94%BB/</link><description>Recent content in 動画 on 🎵 VIRAL BEAT - 動画バイラルトレンドメディア</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>トミー</copyright><lastBuildDate>Sat, 28 Mar 2026 02:15:10 +0000</lastBuildDate><atom:link href="https://tmy-base-310.github.io/tags/%E5%8B%95%E7%94%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>🔥 YouTube急上昇ランキング TOP50 - 2026-03-28</title><link>https://tmy-base-310.github.io/post/youtube%E6%80%A5%E4%B8%8A%E6%98%87%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-top50-2026-03-28/</link><pubDate>Sat, 28 Mar 2026 02:15:10 +0000</pubDate><guid>https://tmy-base-310.github.io/post/youtube%E6%80%A5%E4%B8%8A%E6%98%87%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-top50-2026-03-28/</guid><description>&lt;h2 id="-youtube急上昇ランキング-top50"&gt;🎬 YouTube急上昇ランキング TOP50
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;更新時刻&lt;/strong&gt;: 2026年03月28日 02:15&lt;br&gt;
+&lt;strong&gt;データ元&lt;/strong&gt;: YouTube Data API v3&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="1位-bts-방탄소년단-swim-official-performance-video"&gt;1位: BTS (방탄소년단) &amp;lsquo;SWIM&amp;rsquo; Official Performance Video
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/h-Y97xErGL8?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: HYBE LABELS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 10,754,575回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 1,331,260&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Music&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 7,520&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;BTS 5th Album &amp;lsquo;ARIRANG&amp;rsquo;
+🎧 &lt;a class="link" href="https://bts.lnk.to/ARIRANG" target="_blank" rel="noopener"
+&gt;https://bts.lnk.to/ARIRANG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Credits:
+An UnderWonder Content Production
+Produced by Jason Baum
+Executive Producers: Frank Borin &amp;amp; Ivanna Borin
+Director of Photography: Nikita&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=h-Y97xErGL8" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="2位-snow-man-bang-music-video"&gt;2位: Snow Man &amp;lsquo;BANG!!&amp;rsquo; Music Video
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/nQMhLxv8fSI?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: Snow Man&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 6,999,798回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 124,446&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Music&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 6,330&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;lsquo;BANG!!&amp;rsquo; Music Video&lt;/p&gt;
+&lt;p&gt;目黒蓮 主演 映画『SAKAMOTO DAYS』主題歌
+Theme song for the movie &amp;ldquo;SAKAMOTO DAYS&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Director：Jun Tamukai
+Choreographer : s**t kingz&lt;/p&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=nQMhLxv8fSI" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="3位-balen---jay-mahakaali-swapnil-chronic-beatz-foeseal"&gt;3位: BALEN - JAY MAHAKAALI (Swapnil, Chronic Beatz, Foeseal)
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/Yse0H0mXEuQ?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: Balen&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 4,180,012回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 484,634&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Film &amp;amp; Animation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 4,975&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;JAY MAHAKALI song by Balen ft. Swapnil Sharma&lt;/p&gt;
+&lt;p&gt;RAP/LYRICS/COMPOSE: BALEN
+FLUTE: Kiran Baral
+STUDIO: Atfoes
+VIDEO EDITOR: Bikesh Magar
+MUSIC PRODUCED BY: Foeseal\Cronic Beatz
+MIX MASTER: Foeseal
+RECOR&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=Yse0H0mXEuQ" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="4位-bts-swim-dance-practice"&gt;4位: BTS &amp;lsquo;SWIM&amp;rsquo; Dance Practice
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/uYcNZLJ3KmU?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: BANGTANTV&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 3,844,058回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 649,230&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Music&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 4,742&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#BTS #방탄소년단 #BTS_ARIRANG #BTS_SWIM #KEEPSWIMMING&lt;/p&gt;
+&lt;p&gt;Connect with BTS:
+&lt;a class="link" href="https://ibighit.com/bts" target="_blank" rel="noopener"
+&gt;https://ibighit.com/bts&lt;/a&gt;
+&lt;a class="link" href="https://x.com/bts_bighit" target="_blank" rel="noopener"
+&gt;https://x.com/bts_bighit&lt;/a&gt;
+&lt;a class="link" href="https://x.com/BTS_twt" target="_blank" rel="noopener"
+&gt;https://x.com/BTS_twt&lt;/a&gt;
+&lt;a class="link" href="http://www.facebook.com/bangtan.official" target="_blank" rel="noopener"
+&gt;http://www.facebook.com/bangtan.official&lt;/a&gt;
+&lt;a class="link" href="https://www.youtube" target="_blank" rel="noopener"
+&gt;https://www.youtube&lt;/a&gt;&amp;hellip;.&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=uYcNZLJ3KmU" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="5位-hana--bad-girl--performance-video-"&gt;5位: HANA / Bad Girl -Performance Video-
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/xoBdZngf5Hs?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: HANA official&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 942,595回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 61,054&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Music&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,736&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;HANA &amp;lsquo;Bad Girl&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;▼Download &amp;amp; Streaming
+&lt;a class="link" href="https://hana-brave.lnk.to/BadGirl" target="_blank" rel="noopener"
+&gt;https://hana-brave.lnk.to/BadGirl&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;HANA
+CHIKA / NAOKO / JISOO / YURI / MOMOKA / KOHARU / MAHINA&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Bad Girl
+Lyrics：CHANMINA
+Music：CHANMINA / Ma&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=xoBdZngf5Hs" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="6位-全部自分の声で動物園を作るヤバすぎるゲーム-myvoicezoo-"&gt;6位: 「全部自分の声」で動物園を作るヤバすぎるゲーム『 MyVoiceZoo 』
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/-BWGU7ee6D8?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: キヨ。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 724,776回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 39,250&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,578&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;かわいいを目指してみました　　MyVoiceZoo　 実況
+ゲームはこちら ⇒ &lt;a class="link" href="https://store.steampowered.com/app/4015530/" target="_blank" rel="noopener"
+&gt;https://store.steampowered.com/app/4015530/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【チャンネル登録よろっぷ】　http://goo.gl/zcqUED
+【ツイッター】　http://twitter.com/kiyo_saiore
+【インスタグラム】　http://www.instagram.com/kiyo_y&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=-BWGU7ee6D8" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="7位-ウマ娘-プリティーダービーぱかライブtv-1"&gt;7位: 「ウマ娘 プリティーダービー」ぱかライブTV&amp;rsquo; #1
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/byqb3DEiqB4?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: ぱかチューブっ!【ウマ娘公式】&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 546,662回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 13,574&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,461&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;公式生配信番組「ぱかライブTV&amp;rsquo; #1」を放送します！&lt;/p&gt;
+&lt;p&gt;今回から番組がリニューアル！
+ロゴやキービジュアルも新しくなり、一新したスタジオセットから生放送！&lt;/p&gt;
+&lt;p&gt;番組内では、次回のガチャ更新情報やストーリーイベントなどのゲーム最新情報をはじめとして、ウマ娘の最新情報をより “楽しく！” “わかりやすく！”お届けする新情報コーナーのほか、『ウマ娘』のモチーフとなった競走⾺の魅力を知ることができるコーナ&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=byqb3DEiqB4" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="8位-mvcutie-streetナイスだね"&gt;8位: 【MV】CUTIE STREET『ナイスだね』
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/gf6ycMwbBSs?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: KAWAII LAB.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 503,921回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 25,375&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Entertainment&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,382&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;【Music Video】&lt;/p&gt;
+&lt;p&gt;#CUTIESTREET New Music Video&lt;/p&gt;
+&lt;p&gt;ロッテ約10年ぶりの新アイス商品🍨
+《#アジアに恋して》タイアップ曲&lt;/p&gt;
+&lt;p&gt;川谷絵音さん作詞作曲&lt;/p&gt;
+&lt;p&gt;『ナイスだね』&lt;/p&gt;
+&lt;p&gt;コロって恋に落ちた乙女逃避行&lt;/p&gt;
+&lt;p&gt;いつだって、私はナイスだよ。&lt;/p&gt;
+&lt;p&gt;始まりはいつも突然。今が私だ。&lt;/p&gt;
+&lt;p&gt;▼聴く🎧
+&lt;a class="link" href="http://kawaii-lab.lnk.to/Very_Nice" target="_blank" rel="noopener"
+&gt;http://kawaii-lab.lnk.to/Very_Nice&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;💛古澤里紗❤️佐&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=gf6ycMwbBSs" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="9位-原神luna-予告番組"&gt;9位: 【原神】「Luna Ⅵ」予告番組
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/F7oQX1i2PMo?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: 原神-Genshin-公式&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 435,552回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 15,972&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,382&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;▼出演者
+中島愛（イネファ役）
+遠藤綾（夜蘭役）
+白石晴香（リンネア役）&lt;/p&gt;
+&lt;p&gt;ーーーーーーーーーーーーーー
+オープンワールドRPG『原神（げんしん）』好評配信中！
+◆ジャンル：オープンワールドRPG
+◆対応OS：PlayStation®5/Xbox Series X|S/PC/iOS/Android
+◆対応予定OS：Nintendo Switch™
+ーーーーーーーーーーーーーー
+▼ダウンロードはこち&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=F7oQX1i2PMo" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="10位-マインクラフト賞金首をたくさん捕まえたハンターが勝ちです日常組"&gt;10位: 【マインクラフト】賞金首をたくさん捕まえたハンターが勝ちです【日常組】
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/jAQXnRBNsyo?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: 日常組&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 429,719回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 17,452&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,371&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;面白かったら高評価してやって下さい！&lt;/p&gt;
+&lt;p&gt;俺たち日常組の公式サイトが出来ました!→https://nichijo.world
+チャンネル登録→http://goo.gl/XZDlX0
+follow me!→https://twitter.com/Nichijo_Gumi&lt;/p&gt;
+&lt;p&gt;日常メンバー
+ぺいんと:https://www.youtube.com/channel/UC_qzqv92T-tY9wMnLnd&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=jAQXnRBNsyo" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="11位-なにわ男子---because-i-just-love-you-なにわ男-live-tour-2025-bon-bon-voyage"&gt;11位: なにわ男子 - Because I just love you [なにわ男⼦ LIVE TOUR 2025 &amp;lsquo;BON BON VOYAGE&amp;rsquo;]
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/p7wsD0jLi2c?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: なにわ男子&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 339,129回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 29,893&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Music&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,267&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2026.4.29 Release
+LIVE Blu-ray&amp;amp;DVD「なにわ男⼦ LIVE TOUR 2025 &amp;lsquo;BON BON VOYAGE&amp;rsquo;」&lt;/p&gt;
+&lt;p&gt;💿商品詳細・ご予約はこちら
+&lt;a class="link" href="https://naniwadanshi.lnk.to/LIVE_BONBONVOYAGEYT" target="_blank" rel="noopener"
+&gt;https://naniwadanshi.lnk.to/LIVE_BONBONVOYAGEYT&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4thアルバム「BON BON VOYAGE」を引っ提げ、新潟を⽪切りに全国9ヶ所を巡った「なにわ男子 LIVE TOUR &amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=p7wsD0jLi2c" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="12位-cover好きすぎて滅-voltaction"&gt;12位: 【cover】好きすぎて滅！ #VOLTACTION
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/zSj4JuvvmPE?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: VOLTACTION&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 268,069回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 42,592&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Music&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,265&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;「え、好き。」&lt;/p&gt;
+&lt;p&gt;原曲：M!LK
+&lt;a class="link" href="https://www.youtube.com/watch?v=ZVUxJsPfoX8" target="_blank" rel="noopener"
+&gt;https://www.youtube.com/watch?v=ZVUxJsPfoX8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Programming：大沢圭一
+Guitar：大沢圭一
+Mixing Engineer：コバヤシタカシ&lt;/p&gt;
+&lt;p&gt;Illustration：タコすけ 様
+&lt;a class="link" href="https://x.com/gh0467" target="_blank" rel="noopener"
+&gt;https://x.com/gh0467&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pixel Art：ロ〜ズ 様
+&lt;a class="link" href="https://x.com/roserose626" target="_blank" rel="noopener"
+&gt;https://x.com/roserose626&lt;/a&gt;
+&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=zSj4JuvvmPE" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="13位-ティザー予告hboオリジナル新シリーズハリーポッターと賢者の石2026年クリスマス"&gt;13位: 【ティザー予告】HBOオリジナル新シリーズ「ハリー・ポッターと賢者の石」2026年クリスマス
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/TijaBKkwN50?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: ワーナー ブラザース 公式チャンネル&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 322,272回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 6,026&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Film &amp;amp; Animation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,260&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;※日本語の字幕は、字幕設定をONにしてご覧ください&lt;/p&gt;
+&lt;p&gt;ホグワーツの新しい時代が始まる。
+HBOオリジナル新シリーズ「ハリー・ポッターと賢者の石」2026年クリスマス配信開始！&lt;/p&gt;
+&lt;p&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+▼HBO Max作品の最新情報はこちら
+HBO Max Japan公式X：https://x.com/HBOMaxJP
+HBO Max Japan公式Instagram：https://&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=TijaBKkwN50" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="14位-めゲットした人から早抜け選手権マイクラ"&gt;14位: 「め」ゲットした人から早抜け選手権！【マイクラ】
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/_oGniLgKqtI?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: ドズル社&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 254,122回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 9,387&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,250&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ドズル社メンバーが「め」に関するアイテムを入手した人から抜けられる早抜け企画に挑む！一人、また一人と目を付けたアイテムを手に入れる中、最後まで残ってしまうのは誰なのか！？
+ゲスト：ネコおじ @nekooji
+※今回ドズルはお休みです&lt;/p&gt;
+&lt;p&gt;▼ドズル社メンバーのチャンネルはこちら
+🦍ドズル
+&lt;a class="link" href="https://www.youtube.com/channel/UCcHiyP5BmBzbIW61W_tio7Q" target="_blank" rel="noopener"
+&gt;https://www.youtube.com/channel/UCcHiyP5BmBzbIW61W_tio7Q&lt;/a&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=_oGniLgKqtI" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="15位-me-me-she--radwimpsacoustic-cover"&gt;15位: 『me me she | RADWIMPS』acoustic cover.
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/j--fLYIuX-s?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: 優里ちゃんねる【公式】&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 303,167回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 11,484&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: People &amp;amp; Blogs&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,241&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;RADWIMPSさんの「me me she」はこちらから
+&lt;a class="link" href="https://umj.lnk.to/RADWIMPS_ST" target="_blank" rel="noopener"
+&gt;https://umj.lnk.to/RADWIMPS_ST&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=4WJxtgLPTDM" target="_blank" rel="noopener"
+&gt;https://www.youtube.com/watch?v=4WJxtgLPTDM&lt;/a&gt;
+&lt;a class="link" href="https://www.youtube.com/watch?v=l-juCjS4qwU" target="_blank" rel="noopener"
+&gt;https://www.youtube.com/watch?v=l-juCjS4qwU&lt;/a&gt;
+&lt;a class="link" href="https://www.youtube.com/watch?v=U4bM1iJD65c" target="_blank" rel="noopener"
+&gt;https://www.youtube.com/watch?v=U4bM1iJD65c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ギターのYo&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=j--fLYIuX-s" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="16位-頑張って作ったタワー-vs-真実の口攻城戦ベッドウォーズ"&gt;16位: 頑張って作ったタワー vs 真実の口！！攻城戦ベッドウォーズ
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/HT5ubDgwC0E?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: カラフルピーチ&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 240,697回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 12,529&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,240&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🎉カラフルピーチのオフィシャルファンクラブがオープン！詳細はこちらから！
+&lt;a class="link" href="https://colorful-peach-official-fanclub.com/cpof/" target="_blank" rel="noopener"
+&gt;https://colorful-peach-official-fanclub.com/cpof/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🍑からぴちメンバー🍑
+じゃぱぱ／のあ／ゆあん／たっつん／シヴァ／どぬく／うり／えと／ヒロ／なおきり／もふ／るな
+個性豊かなメンバーによるグループ実況………からぴち
+これからもどんどん活動していきます🍑🍑🍑🍑
+※現在ファンレタ&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=HT5ubDgwC0E" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="17位-超激レアのトレードをした方が勝ち対決をするロブロックス-roblox"&gt;17位: 超激レアのトレードをした方が勝ち対決をするロブロックス.. (Roblox)
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/nOuvtWNsSYs?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: マエスケ&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 240,424回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 7,860&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,235&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;超激レアのトレードをした方が勝ち対決.. vs焼きそばキングREJ ロブロックス
+芋アバター→ &lt;a class="link" href="https://www.roblox.com/ja/communities/402755196/PotatoBOY#!/store" target="_blank" rel="noopener"
+&gt;https://www.roblox.com/ja/communities/402755196/PotatoBOY#!/store&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;マエスケグッズ最高→ &lt;a class="link" href="https://maesuke-store.jp/" target="_blank" rel="noopener"
+&gt;https://maesuke-store.jp/&lt;/a&gt;
+ツイッター: &lt;a class="link" href="https://twitter.com/maesuke118" target="_blank" rel="noopener"
+&gt;https://twitter.com/maesuke118&lt;/a&gt;
+ブレインロットを盗む&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=nOuvtWNsSYs" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="18位-変人だらけのトモダチコレクションわくわく生活体験版"&gt;18位: 変人だらけのトモダチコレクションわくわく生活【体験版】
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/e4-vZ1LPCH0?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: レトルト&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 220,190回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 8,034&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,218&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;オレ？とオマイラの物語(お試し編)
+『トモダチコレクション わくわく生活』を実況プレイ&lt;/p&gt;
+&lt;p&gt;前作⇒https://youtu.be/JMsXilJTjeA?si=e8FC9dk0yzhUKi5f&lt;/p&gt;
+&lt;p&gt;★実況part1集 再生リスト⇒https://www.youtube.com/playlist?list=PLunyMOp9gGlni96gbcO3gA3njAMGddaLF&lt;/p&gt;
+&lt;p&gt;◆レトルトツイッター&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=e4-vZ1LPCH0" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="19位-暴走するaiの都市伝説を検証した結果-マイクラ--マインクラフト-"&gt;19位: 暴走するAIの都市伝説を検証した結果&amp;hellip;【 マイクラ / マインクラフト 】
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/yr2j3CkaWUg?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: ウォーターチャレンジ&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 213,113回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 3,441&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,216&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;カフェコラボ決定！詳細はこちら！
+&lt;a class="link" href="https://www.edith.co.jp/lp/waterchallenge-ediner/" target="_blank" rel="noopener"
+&gt;https://www.edith.co.jp/lp/waterchallenge-ediner/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;新刊の予約はこちらから！
+&lt;a class="link" href="https://www.kadokawa.co.jp/product/322509000283/" target="_blank" rel="noopener"
+&gt;https://www.kadokawa.co.jp/product/322509000283/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;▼公式ファンブック
+Amazon
+&lt;a class="link" href="https://amzn.asia/d/3LNByiM" target="_blank" rel="noopener"
+&gt;https://amzn.asia/d/3LNByiM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;KADOKAWA
+https://store&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=yr2j3CkaWUg" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="20位-いきなり配信開始したトモダチコレクションわくわく生活はじめてのわくわく体験版が面白すぎる"&gt;20位: いきなり配信開始した「トモダチコレクションわくわく生活はじめてのわくわく体験版」が面白すぎる
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/dveplcWNVJg?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: ドコムスチャンネル&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 188,913回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 7,306&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,205&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;今日は濃い出汁取れてますよお客さん&lt;/p&gt;
+&lt;p&gt;編集前の生放送はコチラ
+&lt;a class="link" href="https://youtube.com/live/5AgIzZBCZOI?feature=share" target="_blank" rel="noopener"
+&gt;https://youtube.com/live/5AgIzZBCZOI?feature=share&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;どうもドコムスチャンネルです。
+よければチャンネル登録、高評価、コメントお願いします！！
+大体22時〜やってます！&lt;/p&gt;
+&lt;p&gt;ドコムスTwitter
+&lt;a class="link" href="https://twitter.com/dkomusubi_games" target="_blank" rel="noopener"
+&gt;https://twitter.com/dkomusubi_games&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;弟（編集）のTw&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=dveplcWNVJg" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="21位--マリオテニス-フィーバー-今夜はわためぇテニスフィーバー角巻わためホロライブ４期生"&gt;21位: 【 マリオテニス フィーバー 】今夜は、わためぇテニスフィーバー！！🎾【角巻わため/ホロライブ４期生】
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/O5TWLv9b-Gc?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: Watame Ch. 角巻わため&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 150,623回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 8,282&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,193&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;初テニス！いくぞ！
+タグ：#ドドドライブ&lt;/p&gt;
+&lt;p&gt;この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。&lt;/p&gt;
+&lt;p&gt;🐏もっとクセつよシステムボイス 販売中📢
+&lt;a class="link" href="https://shop.hololivepro.com/products/hololive_Noises2" target="_blank" rel="noopener"
+&gt;https://shop.hololivepro.com/products/hololive_Noises2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🐏わためぇの『-Art Selection-』発売中🎉
+&lt;a class="link" href="https://shop.hololivepro.com/produc" target="_blank" rel="noopener"
+&gt;https://shop.hololivepro.com/produc&lt;/a&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=O5TWLv9b-Gc" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="22位-1eikoがママにゲームを隠されたを生配信ゲーム実況"&gt;22位: 【#1】EIKOがママにゲームを隠された！を生配信！【ゲーム実況】
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/dLuzv14GbWo?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: 狩野英孝【公式チャンネル】EIKO!GO!!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 122,980回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 4,077&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,172&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;今回のサムネは「おできょん。」さん！&lt;/p&gt;
+&lt;p&gt;狩野英孝の公式YouTubeチャンネル！
+毎週水曜、土曜の１８時に配信予定！ライブ配信もやっていきます！&lt;/p&gt;
+&lt;p&gt;さぁ、みんな一緒に！
+栄光に向かってGOして行こうぜ!!&lt;/p&gt;
+&lt;p&gt;※このチャンネルに関するお問い合わせ、ご意見などはコチラまで！
+【エイコー!GO!! MAIL】→ &lt;a class="link" href="mailto:eikogo2020@gmail.com" &gt;eikogo2020@gmail.com&lt;/a&gt;
+　●このチャンネルの動画の無断転載・切り抜き等は固&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=dLuzv14GbWo" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="23位-シルビア弱点に当てられないんだけどモンスト"&gt;23位: 【シルビア】(弱点に)当てられないんだけど【モンスト】
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/5Gd_X8qeP4Q?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: がみくん&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 137,336回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 1,436&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,172&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;【BGM音源・効果音・背景使用元はこちらになります】
+DOVA-SYNDROME：http://dova-s.jp/
+効果音ラボ：http://soundeffect-lab.info
+After Effects S&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=5Gd_X8qeP4Q" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="24位-久保田利伸lalala-love-song-40th-anniversary-celebration-movie"&gt;24位: 久保田利伸「LA・LA・LA LOVE SONG」 40th Anniversary Celebration Movie
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/vC-BlkkWwXE?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: 久保田利伸 / Toshinobu Kubota Official YouTube Channel&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 136,409回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 9,400&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Music&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,169&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;デビュー40周年を記念して、久保田と縁のある著名人が集合し、「LA・LA・LA LOVE SONG」をそれぞれが久保田への“お祝いパフォーマンス”する映像が公開！！&lt;/p&gt;
+&lt;p&gt;＜参加アーティスト＞※敬称略
+AI／ISSA(DA PUMP)／井戸田潤(スピードワゴン)／EXILE ATSUSHI／小澤征悦／亀梨和也／北村一輝／KREVA／城田優／Skoop On Somebody／高橋茂雄(サバンナ)／TO&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=vC-BlkkWwXE" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="25位-この強化は覇権でしょwbc真山本由伸がリアルもプロスピも最強投手になっちゃうプロスピa-1846"&gt;25位: この強化は覇権でしょ！！WBC真・山本由伸がリアルもプロスピも最強投手になっちゃう！！【プロスピA】# 1846
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/svPuK6Wh62U?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: 【V.I.P】&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 129,168回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 2,252&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,165&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=6x2OS6CTilM&amp;amp;t=70s" target="_blank" rel="noopener"
+&gt;https://www.youtube.com/watch?v=6x2OS6CTilM&amp;t=70s&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;チャンネル登録
+&lt;a class="link" href="http://youtube.com/c/vipbb" target="_blank" rel="noopener"
+&gt;http://youtube.com/c/vipbb&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;▼プロスピYouTuber野球部▼
+&lt;a class="link" href="https://www.youtube.com/@%E5%90%8D%E3%82%82%E7%84%A1%E3%81%8D%E9%87%8E%E7%90%83%E9%83%A8" target="_blank" rel="noopener"
+&gt;https://www.youtube.com/@%E5%90%8D%E3%82%82%E7%84%A1%E3%81%8D%E9%87%8E%E7%90%83%E9%83%A8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;他ゲーを生&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=svPuK6Wh62U" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="26位-スマブラsp勇者の使い方-5"&gt;26位: 【スマブラSP】勇者の使い方 5
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/K_kFxXSi1KA?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: 清少なごん&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 125,233回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 6,151&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Entertainment&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,160&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Twitterより高画質です。
+#スマブラ #スマブラSP #勇者&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=K_kFxXSi1KA" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="27位-ゴルフより妨害がメインになってるゴルフゲームがカオスすぎるsuper-battle-golf"&gt;27位: ゴルフより妨害がメインになってるゴルフゲームがカオスすぎる【Super Battle Golf】
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/bJAImnl95r0?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: らっだぁ&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 123,998回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 6,019&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,159&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;次→&lt;/p&gt;
+&lt;p&gt;ゲームはこちら→https://store.steampowered.com/app/4069520/Super_Battle_Golf/&lt;/p&gt;
+&lt;p&gt;◆インスタントグランドマザー
+→https://www.instagram.com/radaokun/
+◆twitterフォローはこちら
+→https://twitter.com/radaokun
+◆さぶちゃんねる
+→https://www.yout&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=bJAImnl95r0" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="28位-地球上の全ての木を切る木こりを育てるゲーム"&gt;28位: 地球上の全ての木を切る木こりを育てるゲーム
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/b5VarDfUulY?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: ハヤトの野望&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 122,538回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 1,737&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,158&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;人間の時代は終わり&lt;/p&gt;
+&lt;p&gt;Timber Rush : &lt;a class="link" href="https://store.steampowered.com/app/4298880/Timber_Rush/?l=japanese" target="_blank" rel="noopener"
+&gt;https://store.steampowered.com/app/4298880/Timber_Rush/?l=japanese&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;再生リスト:https://www.youtube.com/playlist?list=PL-O4RqFKLrZRvBbGQyZcLUmdds-a5cNNF&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;▼タイムスタンプ
+00:00:0&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=b5VarDfUulY" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="29位-toyfriend"&gt;29位: Toyfriend
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/45yoTfV8Nn0?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: SB19 - Topic&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 145,983回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 16,011&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Music&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,148&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Provided to YouTube by Sony Music Entertainment&lt;/p&gt;
+&lt;p&gt;Toyfriend · SB19 · BE:FIRST&lt;/p&gt;
+&lt;p&gt;Wakas At Simula&lt;/p&gt;
+&lt;p&gt;℗ 2026 1Z Entertainment, exclusively licensed by Sony Music Entertainment Philippines, Inc.&lt;/p&gt;
+&lt;p&gt;Released on:&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=45yoTfV8Nn0" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="30位-スト6待望のアレックス希望会議開催正直な評価を語るどぐら達"&gt;30位: 【スト6】待望の『アレックス希望会議』開催！正直な評価を語るどぐら達
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/soXLhshPM58?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: どぐら 生駒デビル&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 102,788回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 1,578&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,145&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;スト6です。　編集：う&amp;quot;ぇのむ
+アレク会議を開催しました。&lt;/p&gt;
+&lt;p&gt;ネモ：https://x.com/GOOD_NEMO
+KEI.B：https://x.com/&lt;em&gt;BNBBN&lt;/em&gt;
+ぷげら：https://x.com/pgr_pgr_&lt;/p&gt;
+&lt;p&gt;●どぐらSNS・配信先
+Twitter : &lt;a class="link" href="https://twitter.com/maneater_dgr?s=21" target="_blank" rel="noopener"
+&gt;https://twitter.com/maneater_dgr?s=21&lt;/a&gt;
+Twitch : &lt;a class="link" href="https://www.twitc" target="_blank" rel="noopener"
+&gt;https://www.twitc&lt;/a&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=soXLhshPM58" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="31位-新メガシンカの情報が解禁されたので考察します"&gt;31位: 新メガシンカの情報が解禁されたので考察します。
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/pGGs2arCExE?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: くろこのビクトリーロード&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 91,254回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 2,239&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: People &amp;amp; Blogs&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,143&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ぜひチャンネル登録お願いします！&lt;/p&gt;
+&lt;p&gt;#ポケモンチャンピオンズ&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=pGGs2arCExE" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="32位-愛とか恋とか竹中雄大--woonhak-of-boynextdoor"&gt;32位: 「愛とか恋とか」竹中雄大 × WOONHAK of BOYNEXTDOOR
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/kC0dlR8n4qw?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: Yudai Takenaka 竹中雄大&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 94,137回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 14,348&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Music&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,142&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;NEW ALBUM「PYRAMID」2026.4.1 Release
+&lt;a class="link" href="https://novelbright.jp/feature/hall_arenatour2026?_normalbrowse_=1" target="_blank" rel="noopener"
+&gt;https://novelbright.jp/feature/hall_arenatour2026?_normalbrowse_=1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Novelbright Official Channel
+Novelbright Official HP：https://novelbright.jp/
+Novelbright YouTub&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=kC0dlR8n4qw" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="33位-アローラ地方の旅スタートから即お絵描き６連戦お絵描きポケモンサンムーン-part01-伊東ライフ"&gt;33位: アローラ地方の旅スタートから即お絵描き６連戦！！｜お絵描きポケモンサンムーン part01 #伊東ライフ
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/UnUvw8xOxdw?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: 伊東ライフ&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 90,310回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 4,465&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,141&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;今回のアローラの旅：坂を登った&lt;/p&gt;
+&lt;p&gt;=================================
+どらやき錬成と編集 @藤本ヒロシ
+ロゴデザイン：コダさん &lt;a class="link" href="https://twitter.com/codaAntp" target="_blank" rel="noopener"
+&gt;https://twitter.com/codaAntp&lt;/a&gt;
+アニメに居るライフちゃん ：塩崎鮭太郎さん &lt;a class="link" href="https://twitter.com/shiozakiotoko" target="_blank" rel="noopener"
+&gt;https://twitter.com/shiozakiotoko&lt;/a&gt;
+ドット絵：marktwoさん &lt;a class="link" href="https://twitter.co" target="_blank" rel="noopener"
+&gt;https://twitter.co&lt;/a&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=UnUvw8xOxdw" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="34位-父さんなスクラッチくじで食っていこうと思うんだ"&gt;34位: 父さんな、スクラッチくじで食っていこうと思うんだ
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/1maP1shV7eA?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: のばまんゲームス&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 95,605回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 3,538&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,140&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奨学金引き出していいか？&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=""&gt;スポンサーシップ：GALLERIA
+ガレリアのばまんコラボPC販売中！詳細はこちら⇩
+&lt;a class="link" href="https://www.dospara.co.jp/gamepc/collab-nobaman.html" target="_blank" rel="noopener"
+&gt;https://www.dospara.co.jp/gamepc/collab-nobaman.html&lt;/a&gt;
+&lt;/h2&gt;&lt;p&gt;🍀ツイッター: https://twi&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=1maP1shV7eA" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="35位-tiji-jojo---white-t-shirt-2-official-video"&gt;35位: Tiji Jojo - White T-Shirt 2 (Official Video)
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/W5F_aaUZHd0?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: BAD HOP&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 90,973回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 4,934&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Music&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,140&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tiji Jojo - White T-Shirt 2 (Official Video)
+Prod. Rocco Flame&lt;/p&gt;
+&lt;p&gt;Tiji Jojo
+ONE MAN LIVE
+「LONG LIVE LOUD」
+@日本武道館&lt;/p&gt;
+&lt;p&gt;日程 : 2026年6月19日(金)
+OPEN 17:30 / START 18:30&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://eplus.jp/tijijojo/" target="_blank" rel="noopener"
+&gt;https://eplus.jp/tijijojo/&lt;/a&gt;
+チケット発売日 : 3月30日&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=W5F_aaUZHd0" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="36位-ティッシュを買わない理由がバケモンすぎるツルギに爆笑しすぎて酸欠になるひなーのｗｗ橘ひなのボドカ柊ツルギぶいすぽ"&gt;36位: ティッシュを買わない理由がバケモンすぎるツルギに爆笑しすぎて酸欠になるひなーのｗｗ【橘ひなの/ボドカ/柊ツルギ/ぶいすぽ】
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/lxj0QqMyj-w?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: ぶいすぽ倉庫&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 71,199回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 1,395&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,133&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;▼元動画▼
+【 Apex Legends 】なんだこのメンバーエペ　w/ボドカ、ツルギ 【ぶいすぽっ！/橘ひなの】
+&lt;a class="link" href="https://youtu.be/1wpM325Wl18" target="_blank" rel="noopener"
+&gt;https://youtu.be/1wpM325Wl18&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;▼タイムスタンプ▼
+0:00 ツルギはひなーのを怖がってる？
+1:52 ひなーのは誘いづらい？
+4:02 お給料貰ってないわけではないんだよね？
+5:36 ボドひなに褒められ照てるツルギ
+6:35 突然の反省会、爆笑が止まら&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=lxj0QqMyj-w" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="37位-ゾンビだらけの世界を本気で生き残ろうとした結果"&gt;37位: ゾンビだらけの世界を本気で生き残ろうとした結果！？
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/Eo1rnKVZJeM?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: まいぜんシスターズ&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 49,316回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 1,549&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,128&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;新しい動画をチェックするためにチャンネル登録よろしくお願いします！
+&lt;a class="link" href="https://www.youtube.com/channel/UCM3yhFc0-fBFuvqx1Vg2YNQ?sub_confirmation=1" target="_blank" rel="noopener"
+&gt;https://www.youtube.com/channel/UCM3yhFc0-fBFuvqx1Vg2YNQ?sub_confirmation=1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;おすすめプレイリスト：
+色々なMODを紹介
+&lt;a class="link" href="https://www.youtube.com/watch?v=ylrljwTo36Y&amp;amp;list=PLOi7mhddYEnsP7Jpa" target="_blank" rel="noopener"
+&gt;https://www.youtube.com/watch?v=ylrljwTo36Y&amp;list=PLOi7mhddYEnsP7Jpa&lt;/a&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=Eo1rnKVZJeM" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="38位-プライドが高すぎる男達のみんなのgolf対決"&gt;38位: プライドが高すぎる男達の『みんなのGOLF』対決！
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/Ca_NSNIa6R0?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: ステパンかゆいとこゲームズ&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 58,489回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 1,948&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Entertainment&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,117&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;企画ch↓
+&lt;a class="link" href="https://youtube.com/channel/UCrup_SUKUSAWxB4ygfs5Rbg?si=oRIdsqnrENhmoHGa" target="_blank" rel="noopener"
+&gt;https://youtube.com/channel/UCrup_SUKUSAWxB4ygfs5Rbg?si=oRIdsqnrENhmoHGa&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;メインch↓
+&lt;a class="link" href="https://youtube.com/@sutegoropanch?si=iMkgLBZslakouFf3" target="_blank" rel="noopener"
+&gt;https://youtube.com/@sutegoropanch?si=iMkgLBZslakouFf3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ゲーム実況ch↓
+&lt;a class="link" href="https://www.youtube.com/channel/UCKd4yNs1CvdCYI" target="_blank" rel="noopener"
+&gt;https://www.youtube.com/channel/UCKd4yNs1CvdCYI&lt;/a&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=Ca_NSNIa6R0" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="39位-himehinaセレナーデcover"&gt;39位: HIMEHINA『セレナーデ』Cover
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/ljaVp17kSr4?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: HIMEHINA Channel&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 52,950回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 6,732&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Music&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,113&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;＼🌎ヒメヒナ初のワールドツアー開催中🌎／
+日本5都市・台北・ソウル・サンノゼを巡るヒメヒナ史上最大の8都市ツアー✈️
+次公演☞ 4/11(土) 名古屋 Zepp Nagoya
+詳細 / &lt;a class="link" href="https://special.himehina.jp/world-tour26" target="_blank" rel="noopener"
+&gt;https://special.himehina.jp/world-tour26&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Original：なとり / &lt;a class="link" href="https://youtu.be/gNg2Qw5R-Q4" target="_blank" rel="noopener"
+&gt;https://youtu.be/gNg2Qw5R-Q4&lt;/a&gt;
+Vocal：HIMEHINA
+&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=ljaVp17kSr4" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="40位-its-alright-preview"&gt;40位: It&amp;rsquo;s Alright (Preview)
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/cxBLrBiLxx4?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: Fujii Kaze - Topic&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 68,145回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 7,188&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Music&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,113&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Provided to YouTube by Universal Music Group&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s Alright (Preview) · Fujii Kaze&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s Alright&lt;/p&gt;
+&lt;p&gt;℗ A Republic Records / UNIVERSAL SIGMA / HEHN RECORDS release; ℗ 2025 UNIVERSAL MUSIC LLC&lt;/p&gt;
+&lt;p&gt;Released on:&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=cxBLrBiLxx4" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="41位-む-裏--重音テト足立レイ"&gt;41位: む (裏) / 重音テト・足立レイ
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/T7t4aFaolSA?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: 大漠波新&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 55,267回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 8,177&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Music&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,112&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;オンリー集合イベント「そうぞうパレッツ 手とテ重ねテ２段目」にてOda Koganeさん頒布予定の「む 同人誌」制作に伴い、記念に裏verを制作しました&lt;/p&gt;
+&lt;p&gt;イベント詳細はこちら↓
+&lt;a class="link" href="https://tokyo.souzou-palettes.net/2026/join/ttt2/" target="_blank" rel="noopener"
+&gt;https://tokyo.souzou-palettes.net/2026/join/ttt2/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;・VOCALS 重音テト・足立レイ&lt;/p&gt;
+&lt;p&gt;・MUSIC 大漠波新
+&lt;a class="link" href="https://x.com/Daibakuhasin" target="_blank" rel="noopener"
+&gt;https://x.com/Daibakuhasin&lt;/a&gt;
+&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=T7t4aFaolSA" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="42位-ak-69---loyalty-official-video"&gt;42位: AK-69 - LOYALTY [Official Video]
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/V_JY0rHmdWs?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: AK-69 Official Channel&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 34,951回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 1,503&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Music&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,100&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;ldquo;LOYALTY&amp;rdquo; (Prod. by DJ RYOW &amp;amp; SPACE DUST CLUB)
+Streaming &amp;amp; Download ▶︎ &lt;a class="link" href="https://linkco.re/sCYAHy4Z" target="_blank" rel="noopener"
+&gt;https://linkco.re/sCYAHy4Z&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;名古屋のソウルフード&amp;quot;矢場味仙&amp;quot;の公式社歌をAK-69 &amp;amp; DJ RYOWが制作。
+テレビ朝日「ガリベンチャーV」の&amp;quot;社ラップ&amp;quot;企画から派生し、東海エリアのストリートカルチャーを代表するメンバーが出演す&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=V_JY0rHmdWs" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="43位-パート分けストリートファイター6jam-projectgoalex希望誕生"&gt;43位: 【パート分け】『ストリートファイター6』JAM Project「GO！ALEX！～希望誕生～」
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/I0Q8CbJSBXk?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: JAM Project Official Channel&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 40,865回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 3,231&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Music&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,100&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;3月17日配信リリース
+ストリートファイター6』アレックス テーマ曲
+「GO！ALEX！～希望誕生～」
+作詞：奥井雅美
+作曲：きただにひろし
+編曲：寺田志保&lt;/p&gt;
+&lt;p&gt;🎧Streaming &amp;amp;Download
+&lt;a class="link" href="https://jamproject.lnk.to/go-alex" target="_blank" rel="noopener"
+&gt;https://jamproject.lnk.to/go-alex&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;◆JAM Projectオフィシャルサイト　https://jamjamsite.com/
+◆JAM Project公式X (&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=I0Q8CbJSBXk" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="44位--1-ハイライトreshine-pentagon--shine-japanese-ver-レヘル分けテスト"&gt;44位: # 1 ハイライト｜▸▸RE:Shine◂◂ PENTAGON ♫ SHINE (Japanese ver.) ｜レベル分けテスト
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/WgDEm_6oviQ?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: PRODUCE 101 JAPAN 新世界&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 37,716回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 1,049&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Entertainment&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,099&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;PRODUCE 101 JAPAN 新世界
+SHINSEKAI, Meet the world&lt;/p&gt;
+&lt;p&gt;🌍新世界 (SHINSEKAI) | PRODUCE 101 JAPAN 新世界
+&lt;a class="link" href="https://youtu.be/pXsM6tNT-2U" target="_blank" rel="noopener"
+&gt;https://youtu.be/pXsM6tNT-2U&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🌍新世界 (SHINSEKAI) Streaming
+&lt;a class="link" href="https://P101J-SHINSEKAI.lnk.to/SHINSEKAI" target="_blank" rel="noopener"
+&gt;https://P101J-SHINSEKAI.lnk.to/SHINSEKAI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;毎週木曜 21:00&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=WgDEm_6oviQ" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="45位-uverworldeverofficial-music-video"&gt;45位: UVERworld『EVER』(Official Music Video)
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/aHm1_uZInGU?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: UVERworld Official YouTube Channel&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 68,286回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 4,555&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Music&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,095&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;テレビ東京系ウィンタースポーツテーマソング&lt;/p&gt;
+&lt;p&gt;▶『EVER』
+&lt;a class="link" href="https://uverworld.lnk.to/EVER_DG" target="_blank" rel="noopener"
+&gt;https://uverworld.lnk.to/EVER_DG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;▶ニューシングル『EVER』
+&lt;a class="link" href="https://uverworld.lnk.to/EVER" target="_blank" rel="noopener"
+&gt;https://uverworld.lnk.to/EVER&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;■初回限定盤　
+SRCL-13581~2　3,045円(＋税)
+※初回限定盤特典：7インチLPサイズ、Bru-ray、写真集付き&lt;/p&gt;
+&lt;p&gt;■通常盤
+SRCL-13583　1,227円(&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=aHm1_uZInGU" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="46位-くまま---くままは屈強-mv-teaser"&gt;46位: くまま - &amp;ldquo;くままは屈強&amp;rdquo; MV Teaser
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/qn-Qst1sTIQ?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: ♡くままの伝説ch♡&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 8,978回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 929&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: People &amp;amp; Blogs&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,087&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;くまま「くままは屈強」
+2026.03.28 0:00 DIGITAL RELEASE
+Streaming &amp;amp; Download : &lt;a class="link" href="https://lnk.to/kumama_kumamaissturdy" target="_blank" rel="noopener"
+&gt;https://lnk.to/kumama_kumamaissturdy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2026.03.30 8:00 MVプレミア公開♡♡♡
+&lt;a class="link" href="https://youtu.be/HnHa4CXq2u8?si=4-ORU1DsD1qyTzEZ" target="_blank" rel="noopener"
+&gt;https://youtu.be/HnHa4CXq2u8?si=4-ORU1DsD1qyTzEZ&lt;/a&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=qn-Qst1sTIQ" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="47位-secret-masquerade"&gt;47位: Secret Masquerade
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/CZDvEIslKcE?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: Knights - Topic&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 11,088回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 1,223&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Music&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,081&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Provided to YouTube by Virgin Music Group&lt;/p&gt;
+&lt;p&gt;Secret Masquerade · Knights · あんさんぶるスターズ！！&lt;/p&gt;
+&lt;p&gt;Knights「Secret Masquerade」あんさんぶるスターズ！！ ESアイドルソング season6&lt;/p&gt;
+&lt;p&gt;℗ 2026 Frontier Works Inc.・Happy Elements K.K&lt;/p&gt;
+&lt;p&gt;Released&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=CZDvEIslKcE" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="48位-晴れと褻"&gt;48位: 晴れと褻
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/_SZuMV17EiY?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: Kaida Haru - Topic&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 28,585回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 2,962&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Music&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 2,066&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Provided to YouTube by AccelNotes Records&lt;/p&gt;
+&lt;p&gt;晴れと褻 · Kaida Haru&lt;/p&gt;
+&lt;p&gt;Hare to ke&lt;/p&gt;
+&lt;p&gt;℗ 2026 ANYCOLOR, Inc.&lt;/p&gt;
+&lt;p&gt;Released on: 2026-03-27&lt;/p&gt;
+&lt;p&gt;Lyricist: sabio/Takamura Futa
+Composer: sabio/Takamura Futa
+Producer: ANYCOLOR&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=_SZuMV17EiY" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="49位-live初日制覇目指して-破界の星墓第2期初見攻略モンストちょこ"&gt;49位: 【🔴LIVE】初日制覇目指して!! ｢破界の星墓第2期｣初見攻略【モンスト/ちょこ】
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/PROAIlQcf9k?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: ちょこ&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 171,675回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 1,083&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Gaming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 1,501&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;▼メンバーシップはこちらから
+&lt;a class="link" href="https://youtube.com/@" target="_blank" rel="noopener"
+&gt;https://youtube.com/@&lt;/a&gt;ちょこ128/join
+月額190円から参加可能で、twitterのフォローやモンストのフレンド申請等の特典があります
+メン限discordサーバーでゲーム等の交流もやっています
+※加入した後、chのメンバーシップ欄に飛んでください
+少し下に遡るとメンバー限定投稿での案内があります
+※iOSの方はアプリ版から入ると手数料が発生&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=PROAIlQcf9k" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="50位-矢沢永吉恋の列車はリバプール発the-star-in-hibiya1976"&gt;50位: 矢沢永吉「恋の列車はリバプール発」/「THE STAR IN HIBIYA」（1976）
+&lt;/h3&gt;
+&lt;div class="video-embed-container youtube-embed"&gt;
+&lt;div class="youtube-wrapper"&gt;
+&lt;iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/1aVgL__XyzI?rel=0&amp;modestbranding=1"
+title="動画"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen
+loading="lazy"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.video-embed-container {
+margin: 20px 0;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.youtube-wrapper {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+background: #000;
+}
+.youtube-wrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+.tiktok-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.tiktok-embed {
+max-width: 605px;
+min-width: 325px;
+}
+.instagram-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.instagram-media {
+max-width: 540px;
+min-width: 326px;
+}
+.twitter-wrapper {
+display: flex;
+justify-content: center;
+margin: 20px 0;
+}
+.video-placeholder,
+.tiktok-placeholder,
+.instagram-placeholder,
+.twitter-placeholder {
+background: var(--card-background);
+border: 2px dashed var(--card-separator-color);
+border-radius: 12px;
+padding: 30px;
+text-align: center;
+color: var(--card-text-color-main);
+}
+.video-placeholder p,
+.tiktok-placeholder p,
+.instagram-placeholder p,
+.twitter-placeholder p {
+margin-bottom: 15px;
+font-size: 1.1rem;
+font-weight: 500;
+}
+.video-placeholder a,
+.tiktok-placeholder a,
+.instagram-placeholder a,
+.twitter-placeholder a {
+display: inline-block;
+padding: 10px 20px;
+background: var(--accent-color);
+color: white;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
+transition: background 0.2s ease;
+}
+.video-placeholder a:hover,
+.tiktok-placeholder a:hover,
+.instagram-placeholder a:hover,
+.twitter-placeholder a:hover {
+background: var(--accent-color-darker);
+}
+@media (max-width: 768px) {
+.video-embed-container {
+margin: 15px -10px;
+border-radius: 8px;
+}
+.youtube-wrapper iframe {
+border-radius: 0;
+}
+.tiktok-embed,
+.instagram-media {
+min-width: 300px;
+max-width: 100%;
+}
+}
+.youtube-embed {
+border-left: 4px solid #FF0000;
+}
+.tiktok-embed {
+border-left: 4px solid #000000;
+}
+.instagram-embed {
+border-left: 4px solid #E4405F;
+}
+.twitter-embed {
+border-left: 4px solid #1DA1F2;
+}
+&lt;/style&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;チャンネル&lt;/strong&gt;: 矢沢永吉 Eikichi Yazawa Channel&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;視聴数&lt;/strong&gt;: 39,242回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;いいね&lt;/strong&gt;: 0&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;カテゴリ&lt;/strong&gt;: Music&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トレンドスコア&lt;/strong&gt;: 463&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;「THE STAR IN HIBIYA」（1976）より「恋の列車はリバプール発」を公開いたします！&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.youtube.com/watch?v=1aVgL__XyzI" target="_blank" rel="noopener"
+&gt;📺 YouTubeで視聴&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="-統計情報"&gt;📊 統計情報
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;総動画数&lt;/strong&gt;: 50本&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;総視聴数&lt;/strong&gt;: 34,507,851回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;平均視聴数&lt;/strong&gt;: 690,157回&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;人気カテゴリ&lt;/strong&gt;: Music, Entertainment, Gaming&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;次回更新&lt;/strong&gt;: 明日 09:00予定&lt;/p&gt;</description></item><item><title>🔥 YouTube急上昇ランキング TOP50 - 2026-03-26</title><link>https://tmy-base-310.github.io/post/youtube%E6%80%A5%E4%B8%8A%E6%98%87%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-top50-2026-03-26/</link><pubDate>Thu, 26 Mar 2026 09:03:19 +0000</pubDate><guid>https://tmy-base-310.github.io/post/youtube%E6%80%A5%E4%B8%8A%E6%98%87%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-top50-2026-03-26/</guid><description>&lt;h2 id="-youtube急上昇ランキング-top50"&gt;🎬 YouTube急上昇ランキング TOP50
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;更新時刻&lt;/strong&gt;: 2026年03月26日 09:03&lt;br&gt;
 &lt;strong&gt;データ元&lt;/strong&gt;: YouTube Data API v3&lt;/p&gt;
 &lt;hr&gt;
